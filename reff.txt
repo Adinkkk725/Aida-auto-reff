@@ -1,1 +1,1 @@
-isi di sini
+echo "your_referral_code" > reff.txt
