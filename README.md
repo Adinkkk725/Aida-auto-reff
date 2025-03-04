@@ -11,8 +11,8 @@ This is an automated bot for creating new accounts, registering referrals, and c
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Adinkkk725/aida-auto-reff.git
-   cd Aida_auto_reff
+   git clone https://github.com/Adinkkk725/Aida-auto-reff.git
+   cd Aida-auto-reff
    ```
 
 2. Install the required packages:
